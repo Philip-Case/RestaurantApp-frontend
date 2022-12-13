@@ -2,7 +2,7 @@
 
 ## This is an app that allows one to create account, log in, search restaurants, search dishes, add/remove dishes to cart and pay for them with the credit card
 
-## The app can be viewed at: https://main.d15080b2f7q4rg.amplifyapp.com/
+## The app can be viewed at: https://main.d15080b2f7q4rg.amplifyapp.com/  (making edits)
 
 ### Please note that these restaurants do not actually exist. If you use your actual credit card, you will not receive any goods or services!
 
