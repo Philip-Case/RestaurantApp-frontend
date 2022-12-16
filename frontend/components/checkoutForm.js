@@ -69,7 +69,7 @@ function CheckoutForm() {
         console.log("INSIDE TRY ");
         const { id } = paymentMethod;
         const response = await axios.post(
-          "https://ilya-server-restaurant.herokuapp.com/payment",
+          "https://philip-restaurant.herokuapp.com/payment",
           {
             amount: paymentAmnt,
             id,
